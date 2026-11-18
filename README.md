@@ -1,0 +1,2 @@
+# n8n-master-LIGHT
+n8n master LIGHT VERSION (SMALL HEIGHT + FAST START)
