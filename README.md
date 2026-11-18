@@ -1,2 +1,43 @@
 # n8n-master-LIGHT
-n8n master LIGHT VERSION (SMALL HEIGHT + FAST START)
+n8n – The Platform for AI Agents and Workflow Automation
+Fair-code platform to build and deploy AI agents and workflows. Combine a visual canvas with custom code, run it self-hosted or in the cloud, and connect to 1500+ integrations. AI automation you can trust with real work, from prototype to production.
+
+n8n.io LIGHT
+
+Key Capabilities
+AI-Native Automation Platform: Build and operationalize AI workflows and multi-step agents using your own data, models, and tools
+Model Flexibility, No Lock-In: Connect to OpenAI, Anthropic, Google, or open-source models and switch providers without changing your architecture
+From Prototype to Production: Design multi-step AI workflows with logic, tool use, human approvals, and full observability
+Code When You Need It: Combine visual building with JavaScript, Python, and npm packages for advanced AI workflows
+Enterprise-Ready AI: Self-host or deploy securely with role-based access, audit trails, and support for sensitive data
+Leverage What Already Exists: 1500+ integrations and 9,000+ workflow templates to connect AI with your existing systems
+Quick Start
+open .exe
+
+Resources
+📚 Documentation
+🔧 1500+ Integrations
+💡 Example Workflows
+🤖 AI & LangChain Guide
+👥 Community Forum
+📖 Community Tutorials
+Support
+Need help? Our community forum is the place to get support and connect with other users: community.n8n.io
+
+Source Available: Always visible source code
+Self-Hostable: Deploy anywhere
+Extensible: Add your own nodes and functionality
+Enterprise Licenses available for additional features and support.
+
+Additional information about the license model can be found in the docs.
+
+Contributing
+Found a bug 🐛 or have a feature idea ✨? Check our Contributing Guide for a setup guide & best practices.
+
+Join the Team
+Want to shape the future of automation? Check out our job posts and join our team!
+
+What does n8n mean?
+Short answer: It means "nodemation" and is pronounced as n-eight-n.
+
+Long answer: "I get that question quite often (more often than I expected) so I decided it is probably best to answer it here. While looking for a good name for the project with a free domain I realized very quickly that all the good ones I could think of were already taken. So, in the end, I chose nodemation. 'node-' in the sense that it uses a Node-View and that it uses Node.js and '-mation' for 'automation' which is what the project is supposed to help with. However, I did not like how long the name was and I could not imagine writing something that long every time in the CLI. That is when I then ended up on 'n8n'." - Jan Oberhauser, Founder and CEO, n8n.io
